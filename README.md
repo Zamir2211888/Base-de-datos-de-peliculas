@@ -1,7 +1,7 @@
 # Base de datos de películas: con calificaciones y género
 
 
-![Banner del Proyecto](/Peliculas.jpg) 
+![Banner del Proyecto](/Pelicula.jpg) 
 
 ## **Autores**
 - Zamir Granados Peñaloza (2211888)
