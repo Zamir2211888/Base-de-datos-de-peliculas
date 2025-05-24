@@ -4,7 +4,7 @@
 ![Banner del Proyecto](/Peliculas.jpg) 
 
 ## **Autores**
-- Zamir Granados Peñaloza (2211888), Yeison Mayorga Gamboa (2210044), Heyner David Marquez Garnica (codigo)
+- Zamir Granados Peñaloza (2211888), Yeison Mayorga Gamboa (2210044), Heyner David Marquez Garnica (2210040)
 
 ## **Objetivo**
 Implementar modelos de machine learning supervisado y no supervisado para analizar y clasificar películas, identificando patrones y grupos que mejoren la segmentación y recomendación en la industria cinematográfica.
