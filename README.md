@@ -1,12 +1,12 @@
 # Base de datos de películas: con calificaciones y género
 
 
-![Banner del Proyecto](/Banner.jpg) 
+![Banner del Proyecto](/Peliculas.jpg) 
 
 ## **Autores**
-Zamir Granados Peñaloza (2211888)
-Yeison Mayorga Gamboa (codigo)
-Heyner David Marquez Garnica(codigo)
+- Zamir Granados Peñaloza (2211888)
+- Yeison Mayorga Gamboa (2210044)
+- Heyner David Marquez Garnica(codigo)
 
 ## **Objetivo**
 xxxxxxxxxxxxxxxx
@@ -24,7 +24,7 @@ xxxxxxxxxxxxxxxxxxxxxx
 - K-Means y DBSCAN 
 
 ## **Enlaces**
-- [Código](Enlace del codigo)
+- [Código](Enlace del codigo colab)
 - [Video](Enlace del video)
-- [Repositorio](Enlace del repositorio)
+- [Repositorio](https://github.com/Zamir2211888/Base-de-datos-de-peliculas)
 
