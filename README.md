@@ -1,1 +1,4 @@
-# Base-de-datos-de-pel-culas-con-calificaciones-y-g-nero
+# Base de datos de películas: con calificaciones y género
+
+
+
