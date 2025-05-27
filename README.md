@@ -23,7 +23,7 @@ Este dataset es ideal para realizar análisis de clasificacion en la industria c
 - K-Means y DBSCAN 
 
 ## **Enlaces**
-- [Código](https://colab.research.google.com/drive/1efhKeUbdFvfm0PKlSze4fW81rAIJaOJW#scrollTo=3qNcjLVaHb5a)
+- [Código](https://colab.research.google.com/drive/1efhKeUbdFvfm0PKlSze4fW81rAIJaOJW?usp=sharing)
 - [Video](https://youtu.be/MFlOjRH2M50)
 - [Repositorio](https://github.com/Zamir2211888/Base-de-datos-de-peliculas)
 
