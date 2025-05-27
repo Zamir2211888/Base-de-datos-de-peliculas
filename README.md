@@ -1,4 +1,4 @@
-# Base de datos de películas: con calificaciones y género
+# Base de datos de películas: Con calificaciones y género
 
 
 ![Banner del Proyecto](/Peliculas.jpg) 
