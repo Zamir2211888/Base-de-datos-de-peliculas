@@ -17,7 +17,6 @@ Este dataset es ideal para realizar análisis de clasificacion en la industria c
 [Enlace de descarga](https://www.kaggle.com/datasets/ochid7/a-dataset-of-movie-information-and-rating/data).
 
 ## **Modelos**
-- GaussianNB
 - Decision Tree
 - Random Forest Classifier
 - Support Vector Classifier
