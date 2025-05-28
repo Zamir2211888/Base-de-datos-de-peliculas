@@ -1,7 +1,7 @@
 # Base de datos de películas: Con calificaciones y género
 
 
-![Banner del Proyecto](/Peliculas1.jpg) 
+![Banner del Proyecto](/Peliculas1.png) 
 
 ## **Autores**
 Zamir Granados Peñaloza (2211888), Yeison Mayorga Gamboa (2210044), Heyner David Marquez Garnica (2210040)
